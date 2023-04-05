@@ -1,0 +1,19 @@
+.cabeçalho 
+{background-color: rgb(10, 10, 18);
+color: rgb(189, 193, 5);
+display: flex;
+padding: 24px;
+font-size: 24px;
+justify-content: space-around;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho-imagem {
+    width: 30%;
+    height: 30%;
+}
+.cabeçalho-lista-item {
+    display:inline-block;
+}
