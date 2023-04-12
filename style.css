@@ -16,4 +16,16 @@ justify-content: space-around;
 }
 .cabeçalho-lista-item {
     display:inline-block;
+    padding: 24px;
+    margin: 24px;
+
+}
+.Música {
+    background-image: linear-gradient(rgb(56, 56, 109), white);
+    color:rgb(0, 0, 0);
+    font-size: 24px;
+    padding: 100px 50px;
+}
+.Música-título {
+    padding: 24px 0px;
 }
