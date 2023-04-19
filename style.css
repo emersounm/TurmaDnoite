@@ -29,3 +29,11 @@ justify-content: space-around;
 .Música-título {
     padding: 24px 0px;
 }
+body {
+    font-family: sans-serif;
+}
+
+    .estudante-imagem {
+        margin-left: 20%;
+    }
+
